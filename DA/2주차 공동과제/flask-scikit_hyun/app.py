@@ -17,14 +17,6 @@ def main():
 # Route for the prediction page (POST method)
 @app.route('/predict', methods=['POST'])
 def predict():
-    # data1 = request.form['a']
-    # data2 = request.form['b']
-    # data3 = request.form['c']
-    # data4 = request.form['d']
-    # arr = np.array([[data1, data2, data3, data4]])
-    # pred = model.predict(arr)
-    # pred = label_encoders["key2"].inverse_transform(pred)
-    # return render_template('result.html', data=pred)
     data1 = request.form['a']
     data2 = request.form['b']
     data3 = request.form['c']
