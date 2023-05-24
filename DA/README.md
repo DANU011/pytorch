@@ -6,7 +6,7 @@ Data Analysis for Time Series(Sensor) Analysis
 ![pip v23.1.2](https://img.shields.io/badge/pip-v23.1.2-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 - [가상환경구성하기](#)
-- [데이터분석 종합 문서(notebooks)](#)
+- [데이터분석 문서(notebooks)](#)
 - [Datasets](#dataset-보류)
 
 ## 참고자료
