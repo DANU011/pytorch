@@ -1,0 +1,40 @@
+> .
+
+## .
+
+> .
+
+.
+
+## .
+
+.
+
+## Memos
+
+### .
+
+- .
+- .
+
+#### Overfitting
+
+.
+
+![overfitting.png](./assets/overfitting.png)
+
+.
+![ideal.png](./assets/ideal.png)
+
+### 
+
+1. `adam`
+2. .
+
+## Issues
+
+
+
+## Dataset _보류_
+
+- 

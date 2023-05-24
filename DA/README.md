@@ -39,12 +39,12 @@ jupyter lab
   
 - [x] Week 2
   - [x] 간단한 분석 모델 배포 
-    > Data 분석   
-  Data 전처리  
-  Model 생성(lr, xgb)  
+    > 데이터 분석   
+  데이터 전처리  
+  모델 생성(lr, xgb)  
 - [X] Week 3
-  - [x] Data set 공유
-  - [x] Model 개선
+  - [x] 데이터 셋 공유
+  - [x] 모델 개선
   - [x] README.md 수정
 
 - [X] Week 4
@@ -59,7 +59,7 @@ jupyter lab
   - [X] 간단한 API를 만들어서 배포
     > CSV 파일을 확정(데이터베이스 구조 확정)  
   간소화된 모델을 선택(백엔드 동기화 성능과 연계)  
-  독립변수 및 종속변수와 관련된 전처리 확정. (입력)  
+  독립변수 및 종속변수와 관련된 전처리 확정 (입력)  
   Flask를 사용해서 "/predict" api를 작동  
 
   - [ ] 더미 파일 개선
@@ -68,7 +68,8 @@ jupyter lab
     
   - [ ] 비지도 학습
     > 개선된 데이터로 클러스터링  
-One-class SVM 모델 생성 후 지도 학습 결과와 비교
+One-class SVM 모델 생성  
+지도 학습 결과와 비교
     
   - [ ] 전체 연결 시도
   - [ ] README.md & 폴더 정리
