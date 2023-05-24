@@ -46,11 +46,11 @@ jupyter lab
 - [X] Week 3
   - [x] 데이터 셋 공유
   - [x] 모델 개선
-  - [x] README.md 수정  
+  - [x] README.md 업데이트  
 
 - [X] Week 4
   - [X] 더미 파일 생성
-  - [X] 문서 수정  
+  - [X] 문서 업데이트  
 
 - [ ] Week 5
   - [X] 머신러닝 모델 확정
