@@ -1,6 +1,6 @@
 # time-series / sensor
 
-Data Analysis for Time Series(Sensor) Analysis
+Data Analysis for Time Series(Sensor) Analysis 
 
 ![Python v3.10.4](https://img.shields.io/badge/python-v3.10.4-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![pip v23.1.2](https://img.shields.io/badge/pip-v23.1.2-3670A0?style=flat&logo=python&logoColor=ffdd54)
