@@ -35,20 +35,22 @@ jupyter lab
 ## TODO
 
 - [X] Week 1
-  - [X] Flask - Spring Boot 연결
+  - [X] Flask - Spring Boot 연결  
   
 - [x] Week 2
   - [x] 간단한 분석 모델 배포 
     > 데이터 분석   
   데이터 전처리  
   모델 생성(lr, xgb)  
+  
 - [X] Week 3
   - [x] 데이터 셋 공유
   - [x] 모델 개선
-  - [x] README.md 수정
+  - [x] README.md 수정  
 
 - [X] Week 4
-  - [X] 더미 파일 생성 
+  - [X] 더미 파일 생성
+  - [X] 문서 수정  
 
 - [ ] Week 5
   - [X] 머신러닝 모델 확정
