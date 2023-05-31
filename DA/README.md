@@ -79,7 +79,15 @@ Flask를 사용해서 "/predict" api를 작동
   - [X] 지도 학습
     > 개선된 데이터로 모델 생성  
 F1 값 고려해서 모델 선정  
-    
+  - [X] 더미 파일 개선
+    > fall - Temperature, Heartbeat  
+Temperature high 30% * Heartbeat normal 60%, Heartbeat high 30%, Heartbeat low 10%  
+Temperature normal 60% * Heartbeat normal 70%, Heartbeat higt 30%  
+Temperature low 10% * Heartbeat normal 70%, Heartbeat low 30%   
+Temperature range  
+ high 37.1 ~ 39.9 / normal 36.0 ~ 37.0 / low 34.0 ~ 35.0  
+Heartbeat range  
+ high 100 ~ 140 / normal 60 ~ 85 / low 45 ~ 55  
   - [ ] 전체 연결 시도  
   - [X] 문서 업데이트
     > 탐색적 가시화 부분에 그래프 추가  
