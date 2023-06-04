@@ -74,7 +74,7 @@ Flask를 사용해서 "/predict" api를 작동
  
 
 
-- [ ] Week6
+- [X] Week6
 
   - [X] 지도 학습
     > 개선된 데이터로 모델 생성  
@@ -88,7 +88,7 @@ Temperature range
  high 37.1 ~ 39.9 / normal 36.0 ~ 37.0 / low 34.0 ~ 35.0  
 Heartbeat range  
  high 100 ~ 140 / normal 60 ~ 85 / low 45 ~ 55  
-  - [ ] 전체 연결 시도  
+  - [X] 전체 연결 시도  
   - [X] 문서 업데이트
     > 탐색적 가시화 부분에 그래프 추가  
 더미 데이터 생성 방식 추가   
