@@ -95,11 +95,9 @@ Heartbeat range
 더미 데이터 헤드 이미지 추가 (이상치 데이터 포함 30%~40%) 
 
 - [X] Week7
-  - [ ] kfall dataset 전처리
-  - [ ] 낙상 여부를 판별하는 모델 생성
-    > 누운 자세를 판별 + 앉은 자세  > 움직임 변화가 없으면 혈압+맥박 데이터로 낙상 판별  
-walk - sit, stand - sit, sit - sit 경우를 구분하여 학습  
-스마트밴드의 각속도가 0이면 낙상으로 판별 
+  - [X] Sisfall dataset 수정
+  - [ ] Sisfall model 확정
+    >  
   
 ## Flask
 
