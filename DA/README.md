@@ -95,8 +95,8 @@ Heartbeat range
 더미 데이터 헤드 이미지 추가 (이상치 데이터 포함 30%~40%) 
 
 - [X] Week7
-  - [X] Sisfall dataset 수정
-  - [ ] Sisfall model 확정
+  - [X] Sisfall dataset 수정 temperature, heartbeat X
+  - [X] acc 포함 버전  
     >  
   
 ## Flask
